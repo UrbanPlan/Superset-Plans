@@ -32,9 +32,13 @@ supersets:
               - name: Exercise YYY
                 picture: exercise_YYY.jpg
                 nreps: 10
+
+          # continue to add plans here (B1, B2...)
+
       - day: 2
         name: Bla bla bla
-
+        # continue to add stuff here
 
   - superset 2:
     benefits: {}
+    # continue to add stuff here
