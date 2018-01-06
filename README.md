@@ -21,7 +21,7 @@ supersets.yaml replace supersets.json because YAML file is more compact aesy to 
 
 ## FAQ
 
-For the YASML file look here:
+For the YAML file look here:
 - https://en.wikipedia.org/wiki/YAML
 - https://learnxinyminutes.com/docs/yaml
 
