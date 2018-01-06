@@ -1,7 +1,10 @@
 # Superset-Plans
 
-https://www.bodybuilding.com/fun/wotw23.htm
-https://www.muscleandfitness.com/workouts/workout-routines/fat-busting-superset-workout-0?day=1
+## References
+
+- https://www.bodybuilding.com/fun/wotw23.htm
+- https://www.muscleandfitness.com/workouts/workout-routines/fat-busting-superset-workout-0?day=1
+
 
 ## Workout data
 - supersets.yaml
@@ -9,12 +12,12 @@ https://www.muscleandfitness.com/workouts/workout-routines/fat-busting-superset-
 
 supersets.yaml replace supersets.json because YAML file is more compact aesy to read  
 
+
 ## Todo
 
 - Complete the superset data file  
 
    
-
 
 ## FAQ
 
